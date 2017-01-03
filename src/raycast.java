@@ -110,6 +110,7 @@ public class raycast {
 
 	public static void main(String[] args) {
 		new raycast().run();
+		System.out.println("this stuff works, i hope");
 	}
 
 }
