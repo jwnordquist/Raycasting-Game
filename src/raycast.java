@@ -18,7 +18,7 @@ public class raycast {
 
 	public void run() {
 		System.out.println("Hello LWJGL " + Version.getVersion() + "!");
-
+		//test
 		init();
 		loop();
 
