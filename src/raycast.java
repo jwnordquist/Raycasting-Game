@@ -7,5 +7,4 @@ public class raycast {
 			System.out.println("this is a test " + i);
 		}
 	}
-
 }
